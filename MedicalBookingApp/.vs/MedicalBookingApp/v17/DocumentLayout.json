@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New\\source\\repos\\MedicalBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEC4C1-3A16-4356-B8C5-9D32597A6CE5}|MedicalBookingApp.csproj|c:\\users\\new\\source\\repos\\medicalbookingapp\\sql\\setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2EEC4C1-3A16-4356-B8C5-9D32597A6CE5}|MedicalBookingApp.csproj|solutionrelative:sql\\setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEC4C1-3A16-4356-B8C5-9D32597A6CE5}|MedicalBookingApp.csproj|c:\\users\\new\\source\\repos\\medicalbookingapp\\sql\\setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2EEC4C1-3A16-4356-B8C5-9D32597A6CE5}|MedicalBookingApp.csproj|solutionrelative:sql\\setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "setup.sql ",
+              "DocumentMoniker": "C:\\Users\\New\\source\\repos\\MedicalBookingApp\\SQL\\setup.sql",
+              "RelativeDocumentMoniker": "SQL\\setup.sql",
+              "ToolTip": "C:\\Users\\New\\source\\repos\\MedicalBookingApp\\SQL\\setup.sql",
+              "RelativeToolTip": "SQL\\setup.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-22T11:35:54.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
